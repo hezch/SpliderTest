@@ -1,0 +1,7 @@
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\bin\Debug\spider.exe
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\bin\Debug\spider.pdb
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\obj\x86\Debug\spider.Form1.resources
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\obj\x86\Debug\spider.Properties.Resources.resources
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\obj\x86\Debug\spider.csproj.GenerateResource.Cache
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\obj\x86\Debug\spider.exe
+c:\users\stride\documents\visual studio 2010\Projects\Splider\spider\obj\x86\Debug\spider.pdb
